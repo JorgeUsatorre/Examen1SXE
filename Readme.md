@@ -23,5 +23,5 @@
 
    En el caso que todo este bien no salfria algo asi:
 
-   ![docker-compose.yml](Capturas/Captura.png)
+   ![docker-compose.yml](Capturas/Captura2.png)
 
